@@ -1,0 +1,4 @@
+Quais as limitações observadas no modelo knn?
+
+Ao depender da distância entre os pontos a ser analisados, pode ser a mesma e a IA ficar na dúvida para escolhar uma alternativa.
+(só observei essa)
